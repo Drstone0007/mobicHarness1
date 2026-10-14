@@ -1,0 +1,9 @@
+{
+  "name": "Mobile Harness",
+  "description": "The complete autonomous AI development workspace. Chat with coding agents, edit projects, execute Linux commands, and preview web apps.",
+  "prompt": "Mobile Harness autonomous development workspace rewritten in React",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
